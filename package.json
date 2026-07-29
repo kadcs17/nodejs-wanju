@@ -1,10 +1,10 @@
 {
-  "name": "jsr-ay",
+  "name": "js",
   "version": "1.0.0",
-  "description": "nodejs-for-r-ay",
+  "description": "nodejs",
   "main": "index.js",
   "repository": "",
-  "author": "MITs",
+  "author": "",
   "license": "MIT",
   "private": false,
   "scripts": {
